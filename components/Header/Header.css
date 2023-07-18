@@ -1,0 +1,32 @@
+header h1 {
+  height: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3em;
+  text-align: center;
+  text-transform: uppercase;
+  gap: 10px;
+}
+
+header h3 {
+  display: flex;
+  justify-content: center;
+}
+
+header span {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  color: #3a3e41;
+}
+
+header section {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+header section figure {
+  filter:contrast(150%);
+
+}
